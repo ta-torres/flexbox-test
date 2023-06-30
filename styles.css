@@ -65,7 +65,7 @@
     order: 1;
 }
 
-.last.item {
+.last-item {
     order: -1;
 }
 
